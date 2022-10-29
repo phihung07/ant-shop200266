@@ -46,9 +46,6 @@ integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEUL
         <li class="nav-item">
           <a class="nav-link" href="?page=logout">Logout</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="?page=register">Register</a>
-        </li>
         <?php
 				} else {
 			  ?>
